@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+    color: rgb(243, 228, 228);
+}
+
+.card{
+    margin: 20px 30px;
+}
+.container{
+    background-color: rgb(72, 35, 35);
+    color: white;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px 0px rgb(22, 11, 11);
+}
+
+.info{
+    padding: 1rem;
+}
+
+.info span {
+   font-weight:bold;
+}
